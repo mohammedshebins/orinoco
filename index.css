@@ -734,7 +734,11 @@ footer span a:hover{
         text-align: center;
         margin-bottom: 20px;
     }
-    
+    .button-area{
+        display: flex;
+        justify-content:center;
+    }
+      
     img {
         width: 100%;
         max-width: none;
